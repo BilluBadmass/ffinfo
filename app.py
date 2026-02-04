@@ -9,8 +9,8 @@ import json
 
 app = Flask(__name__)
 
-com_garena_msdk_uid = "3942040791"
-com_garena_msdk_password = "EDD92B8948F4453F544C9432DFB4996D02B4054379A0EE083D8459737C50800B"
+com_garena_msdk_uid = "3805052812"
+com_garena_msdk_password = "2D8F760A0C68AF233C4DC3C3620C627CFCF52AFAD24DDA1248F1EB39EEF88E4A"
 com_jwt_generate_url = "https://100067.vercel.app/token"
 
 def get_jwt():
