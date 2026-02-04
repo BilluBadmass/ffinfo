@@ -1,4 +1,4 @@
-pycryptodome
-Flask==2.2.5
+Flask
 requests
-protobuf==4.21.12
+pycryptodome
+protobuf-decoder
